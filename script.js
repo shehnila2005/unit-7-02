@@ -1,4 +1,4 @@
-document.getElementById('button').addEventListener('click',comparison)
+document.getElementById('button').addEventListener('click', comparison)
 let userInput = 0
 
 function comparison () {
